@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Base</string>
+    <string name="ip_address_template">IP Address: %s</string>
+    <string name="synchronize_server_list_label">Synchronize Server List</string>
+</resources>
